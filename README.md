@@ -1,6 +1,6 @@
 # Deep-Analysis-of-US-College-System
 
-## Project Description
+## Learning Inference Decisions Semester Project at Cornell Tech
 
 #### -	Studying advanced experimentation techniques: MLE/bootstrap, RDDs, instrumental variables, ignorability, multi-arm bandits 
 
